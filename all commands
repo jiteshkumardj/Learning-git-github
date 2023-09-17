@@ -1,0 +1,8 @@
+//git init--
+//git add .  OR git add file_name
+//git status
+# for deleting file from directory we use (rm -rf file_name)
+//git commit -m "message you want to display"
+//git log 
+//git reset commit_id
+//git stash
